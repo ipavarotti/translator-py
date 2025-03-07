@@ -1,6 +1,6 @@
 # HTML/XML translator
 
-An application for translating HTML and XML files into Brazilian Portuguese.
+An application for translating HTML and XML.
 
 ## Features
 
