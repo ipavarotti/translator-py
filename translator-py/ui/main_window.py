@@ -8,7 +8,7 @@ from translator.translator import HTMLXMLTranslator
 from ui.theme_manager import ThemeManager
 from ui.language_manager import LanguageManager
 import sys  
-import traceback  #
+import traceback 
 
 class TranslationThread(QThread):
     progress_signal = pyqtSignal(int)
