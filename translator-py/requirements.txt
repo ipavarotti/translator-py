@@ -1,0 +1,4 @@
+PyQt5==5.15.9
+beautifulsoup4==4.12.2
+deep-translator==1.11.4
+googletrans==4.0.0-rc1
